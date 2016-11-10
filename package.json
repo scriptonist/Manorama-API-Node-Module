@@ -1,0 +1,14 @@
+{
+  "name": "manorama",
+  "version": "1.0.0",
+  "description": "A chat bot for manorama newspaper",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "madlabs",
+  "license": "ISC",
+  "dependencies": {
+    "node-rest-client": "^2.0.1"
+  }
+}
